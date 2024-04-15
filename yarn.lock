@@ -3719,9 +3719,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dannyguo.com@workspace:.":
+"recdata.com@workspace:.":
   version: 0.0.0-use.local
-  resolution: "dannyguo.com@workspace:."
+  resolution: "recdata.com@workspace:."
   dependencies:
     "@astrojs/mdx": "npm:0.19.7"
     "@astrojs/rss": "npm:2.4.3"

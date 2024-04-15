@@ -1,6 +1,6 @@
 # Islam Valley's personal website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2288054d-de7c-458b-bbf4-21a1c3fcfeee/deploy-status)](https://app.netlify.com/sites/dannyguo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2288054d-de7c-458b-bbf4-21a1c3fcfeee/deploy-status)](https://app.netlify.com/teams/recdata/sites)
 [![CI status](https://github.com/recdata/islamvalley.com/workflows/CI/badge.svg)](https://github.com/recdata/islamvalley.com/actions?query=branch%3Amaster)
 
 Hello! My website is available at https://islamvalley.com.
@@ -71,7 +71,7 @@ post](https://help.medium.com/hc/en-us/articles/215552778-Unlisted-publishing).
     * Remove the `draft` or `unlisted` flag
     * Set the `date`, `categories`, and `tags` fields
 3. Back up images in Google Drive
-4. [Import](https://medium.com/p/import) the post into [Medium](https://medium.com/@dannyguo)
+4. [Import](https://medium.com/p/import) the post into [Medium](https://medium.com/@recdata)
     * Convert code blocks into [GitHub gists](https://gist.github.com/) and embed them
         * Use `?file=foo.js` to [reference a specific file in a
             gist](https://stackoverflow.com/a/64728065/1481479)

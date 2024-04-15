@@ -138,5 +138,5 @@ encourage anyone who maintains or needs a static website to check it out.
 
 Continue the discussion on [Hacker
 News](https://news.ycombinator.com/item?id=17387103), on
-[Medium](https://medium.com/@dannyguo/migrating-from-jekyll-to-hugo-8c57c1e9722b),
+[Medium](https://medium.com/@recdata/migrating-from-jekyll-to-hugo-8c57c1e9722b),
 or in the comments below.

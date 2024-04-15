@@ -34,7 +34,7 @@ def run_command(command, bind_port=False):
             f'{os.getcwd()}:/src:cached'
         ] +
         (['-p', '1313:1313'] if bind_port else []) +
-        (['-it'] if sys.stdout.isatty() else []) + ['dannyguo-dev'] + command
+        (['-it'] if sys.stdout.isatty() else []) + ['recdata-dev'] + command
     ).returncode
 
 def open_in_browser():
@@ -87,7 +87,7 @@ def algolia(args, remaining):
 
 @command('Build a Docker image for development')
 def build_docker(args, remaining):
-    return run(['docker', 'build', '-t', 'dannyguo-dev', '.']).returncode
+    return run(['docker', 'build', '-t', 'recdata-dev', '.']).returncode
 
 @command('Run a Hugo command')
 def hugo(args, remaining):

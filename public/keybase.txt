@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/dannyguo
+https://keybase.io/recdata
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://islamvalley.com
-  * I am dannyguo (https://keybase.io/dannyguo) on keybase.
+  * I am recdata (https://keybase.io/recdata) on keybase.
   * I have a public key ASAeJVJXzH2XO09KdLbDG4ZMgW0mfo4Lhra-Pr4KS5ykFgo
 
 To do so, I am signing this object:
@@ -17,7 +17,7 @@ To do so, I am signing this object:
       "host": "keybase.io",
       "kid": "01201e255257cc7d973b4f4a74b6c31b864c816d267e8e0b86b6be3ebe0a4b9ca4160a",
       "uid": "77713c3738ee85d7469c7e33b1c29519",
-      "username": "dannyguo"
+      "username": "recdata"
     },
     "merkle_root": {
       "ctime": 1523988743,
@@ -51,6 +51,6 @@ hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHiVSV8x9lztPSnS2wxuGTIFtJn6OC4a2
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/dannyguo
+View my publicly-auditable identity here: https://keybase.io/recdata
 
 ==================================================================

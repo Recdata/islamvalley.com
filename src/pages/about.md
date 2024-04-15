@@ -18,20 +18,20 @@ Center](https://service.bloomberg.com) website.
 * [devRant](https://devrant.com/users/recdata)
 * [GitHub](https://github.com/recdata)
 * [Hacker News](https://news.ycombinator.com/user?id=recdata)
-* [Keybase](https://keybase.io/dannyguo)
+* [Keybase](https://keybase.io/recdata)
 * [LinkedIn](https://www.linkedin.com/in/danny-guo/)
-* [Medium](https://medium.com/@dannyguo)
+* [Medium](https://medium.com/@recdata)
 * [npm](https://www.npmjs.com/~recdata)
 * [repl.it](https://repl.it/@dyguo)
 * [Stack Overflow](https://stackoverflow.com/users/1481479/danny-guo)
-* [Twitter](https://twitter.com/dannyguo)
+* [Twitter](https://twitter.com/recdata)
 
 ## Donate
 
 If you'd like to support my open source efforts, you can use any of these
 methods:
 
-* [Buy Me A Coffee](https://buymeacoff.ee/dannyguo)
-* [Cash App](http://cash.me/$DannyGuo)
-* [Ko-fi](https://ko-fi.com/dannyguo)
-* [PayPal](https://www.paypal.me/DannyGuo)
+* [Buy Me A Coffee](https://buymeacoff.ee/recdata)
+* [Cash App](http://cash.me/$recdata)
+* [Ko-fi](https://ko-fi.com/recdata)
+* [PayPal](https://www.paypal.me/recdata)

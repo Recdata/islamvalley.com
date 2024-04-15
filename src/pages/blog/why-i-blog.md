@@ -194,7 +194,7 @@ posts that I think will be popular.
 My writing provided an unexpected opportunity. Someone from
 [LogRocket](https://logrocket.com) read one of my posts and invited me to write
 paid posts for [their technical blog](https://blog.logrocket.com/). I've written
-[some posts](https://blog.logrocket.com/author/dannyguo) for them, and I used
+[some posts](https://blog.logrocket.com/author/recdata) for them, and I used
 them as chances to get paid to write and learn new things.
 
 ## Monetization

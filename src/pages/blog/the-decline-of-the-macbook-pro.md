@@ -199,5 +199,5 @@ The Apple magic isn't there anymore.
 
 Continue the discussion on [Hacker
 News](https://news.ycombinator.com/item?id=17266492), on
-[Medium](https://medium.com/@dannyguo/the-decline-of-the-macbook-pro-e5a7c2215d61),
+[Medium](https://medium.com/@recdata/the-decline-of-the-macbook-pro-e5a7c2215d61),
 or in the comments below.
